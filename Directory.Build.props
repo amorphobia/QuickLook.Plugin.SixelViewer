@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net462</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="QuickLook.Common" Version="4.5.0" IncludeAssets="compile" />
+  </ItemGroup>
+</Project>

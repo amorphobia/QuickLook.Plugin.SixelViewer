@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/QuickLook.Plugin.SixelSource/QuickLook.Plugin.SixelSource.csproj" />
+    <Project Path="src/QuickLook.Plugin.SixelViewer/QuickLook.Plugin.SixelViewer.csproj" />
+  </Folder>
+</Solution>
